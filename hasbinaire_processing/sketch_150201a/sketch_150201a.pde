@@ -2,7 +2,7 @@ import processing.video.*;
 Movie mov;
 Movie neige;
 
-
+//défécation
 //variable definissant le n° de la video en train d'être jouée et le nb de video
 int movSel=1;
 int nb_video=3;
